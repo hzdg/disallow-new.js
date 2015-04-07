@@ -1,0 +1,24 @@
+{
+  "name": "disallownew",
+  "version": "0.0.1",
+  "description": "Don't let people use \"new\" on your function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hzdg/disallownew.js.git"
+  },
+  "keywords": [
+    "new",
+    "functional",
+    "constructors"
+  ],
+  "author": "Matthew Dapena-Tretter <m@tthewwithanm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hzdg/disallownew.js/issues"
+  },
+  "homepage": "https://github.com/hzdg/disallownew.js"
+}
