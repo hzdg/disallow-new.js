@@ -7,14 +7,14 @@ an unnecessary object allocation but otherwise succeed without warning).
 Installation
 ------------
 
-`npm install disallownew`
+`npm install disallow-new`
 
 
 Usage
 -----
 
 ```javascript
-import disallowNew from 'disallownew';
+import disallowNew from 'disallow-new';
 
 function MyFactory() {
   // [SNIP]

@@ -1,5 +1,5 @@
 {
-  "name": "disallownew",
+  "name": "disallow-new",
   "version": "0.0.1",
   "description": "Don't let people use \"new\" on your function",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:hzdg/disallownew.js.git"
+    "url": "git@github.com:hzdg/disallow-new.js.git"
   },
   "keywords": [
     "new",
@@ -18,7 +18,7 @@
   "author": "Matthew Dapena-Tretter <m@tthewwithanm.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hzdg/disallownew.js/issues"
+    "url": "https://github.com/hzdg/disallow-new.js/issues"
   },
-  "homepage": "https://github.com/hzdg/disallownew.js"
+  "homepage": "https://github.com/hzdg/disallow-new.js"
 }
